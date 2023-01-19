@@ -14,18 +14,22 @@ B5G-OPEN targets the design, prototyping and demonstration of a novel end-to-end
 
 ## Organization rules
 
-- Members can create new public repositories.
-- New repositories must be notified to the other members via email.
-- All the repositories must have a README.md with a short brief.
+- B5G-OPEN members can create new public repositories on their own. When creating one:
+  - All repo names should be of the form b5gopen_XXXX, where XXX should be a relatively short, but descriptive name.
+  - The new repo created must have a README.md with a short brief, so any external reader (including the project reviewers) can understand what the repo will contain.
+  - New repositories must be notified to the other B5G-OPEN members via email. Please use the WP6 list (WP6.b5g-open@tid.es) for that.
+  - The repo creator should update the repo index (the table below in this readme), adding one row to the table, with the project name and a project description (1-3 lines). Please, try to use the same format and style as the other repos you see there.
+  - Repo creators are responsible for managing their own repos in all its aspects. 
 
 <br>
 
 ## Content
 
-### Documentation
+### Repository index
 
-| **name** | **description** |
+| **Name** | **Description** |
 |:--------:|:---------------:|
+|b5gopen_EligMaterial|This repo will contain the public software, API descriptions etc. produced by E-lighthouse in different parts of the project|
 | [www.b5g-open.eu](www.b5g-open.eu) | project website |
 | [.github](https://github.com/B5G-OPEN/.github) | this repository |
 
