@@ -25,8 +25,6 @@ B5G-OPEN targets the design, prototyping and demonstration of a novel end-to-end
 
 | **Name** | **Description** |
 |:--------|:---------------|
-| [www.b5g-open.eu](www.b5g-open.eu) | project website |
-| [.github](https://github.com/B5G-OPEN/.github) | this repository |
 |b5gopen_EligMaterial|This repo will contain the public software, API descriptions etc. produced by E-lighthouse in different parts of the project|
 
 <br>
