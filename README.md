@@ -1,5 +1,7 @@
 # B5G-Open
-<img src="https://www.b5g-open.eu/wp-content/uploads/2021/10/B5G-OPEN-LOGO.png" alt="b5g-open_logo" width="200" style="display: block; margin: 0 auto">
+<p align="center">
+<img src="https://www.b5g-open.eu/wp-content/uploads/2021/10/B5G-OPEN-LOGO.png" alt="b5g-open_logo" width="200" >
+</p>
 <br>
 
 Collection of repositories gathered in the context of the European project: [B5G-Open](https://www.b5g-open.eu/)
@@ -7,9 +9,6 @@ Collection of repositories gathered in the context of the European project: [B5G
 More information in: [`profile/README.md`](https://github.com/B5G-OPEN/)
 
 ## Acknowledgements
-
-
-
 <br>
 
 <img src="https://www.b5g-open.eu/wp-content/uploads/2021/10/Flag_of_Europe-300x200-1.png" alt="eu_flag" width="100">
